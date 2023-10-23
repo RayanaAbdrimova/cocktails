@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway';
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.title {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 6.4px;
+    text-transform: uppercase;
+}
+.line{
+    width: 100px;
+    height: 5px;
+    margin: 32px auto 50px;
+    background: #FF0F82;
+}
+
+.select{
+    .el-input__wrapper{
+        background: #141414;
+    }
+    .el-input__inner{
+        color: #D3D3D3CC;
+    }
+}
